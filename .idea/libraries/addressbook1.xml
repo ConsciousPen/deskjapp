@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="addressbook1">
-    <CLASSES>
-      <root url="jar://C:/tools/addbookJava/lib/addressbook.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
