@@ -21,7 +21,7 @@ public class TestBase {
     public void setUp(@Optional String configFile) throws Exception {
         if (configFile == null) {
             configFile = System.getProperty("configFile");
-        }
+            }
         if (configFile == null) {
             configFile = System.getenv("configFile");
         }
